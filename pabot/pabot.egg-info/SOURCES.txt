@@ -1,0 +1,13 @@
+MANIFEST.in
+setup.py
+pabot/AdressBook.py
+pabot/Message.py
+pabot/__init__.py
+pabot/notes.py
+pabot/pabot.py
+pabot/sort.py
+pabot.egg-info/PKG-INFO
+pabot.egg-info/SOURCES.txt
+pabot.egg-info/dependency_links.txt
+pabot.egg-info/entry_points.txt
+pabot.egg-info/top_level.txt
