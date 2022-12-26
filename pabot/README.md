@@ -84,7 +84,7 @@
 >>Example: `birthdays after days` "number of days"
 
 >`phone` - shows all users with given phone for search
->> Example: phone 0951234567
+>> Example: `phone` 0951234567
 
 
 
