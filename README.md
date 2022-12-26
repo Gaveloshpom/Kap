@@ -41,8 +41,8 @@
 > birthday - add birthday date to the contact 
 >>Example: bithday name date(yyyy-mm-dd)
 
-> days to birthday - show how much days left to the contact 
->>birthday Example: days to birthday name
+> days to birthday - show how much days left to the contact birthday 
+>>Example: days to birthday name
 
 > sort directory - just what it says 
 >>Example: sort directory D:\\stuff\\python_projects
