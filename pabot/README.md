@@ -18,7 +18,7 @@
 
 > hello
  
-> help - show commands list
+> help - shows a description of all commands
 
 > add - add new contact in storage 
 >>Example: add "name (only letters without spaces)" "phone number (only digits without spaces)"
